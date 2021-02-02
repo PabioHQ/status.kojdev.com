@@ -1,14 +1,15 @@
 owner: koj-co
 repo: status.kojdev.com
 sites:
-  - name: KojDev.com
+  - name: Dev website
     url: https://kojdev.com
+  - name: Dev API
+    url: https://api.kojdev.com
+  - name: Dev admin panel
+    url: https://admin.kojdev.com
 status-website:
-  cname: demo.upptime.js.org
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.kojdev.com
+  name: Koj Staging Status
   navbar:
     - title: Status
       href: /
